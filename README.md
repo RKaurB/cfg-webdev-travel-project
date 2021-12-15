@@ -38,4 +38,4 @@ This project was presented alongside [CamilleBarbit](https://github.com/camilleb
 <br>
 <br>
 
-**_Note:_** We covered JavaScript very briefly towards the end of the course, so we chose to create our project website using static HTML and CSS at this stage.  We also ran out of time to create the About page.  Would be good to revisit and improve the website at some point.
+**_Note:_** We covered JavaScript very briefly towards the end of the course, so we chose to create our project website using HTML, CSS, and Bootstrap.  We also ran out of time to create the About page.  Would be good to revisit and improve the website at some point.
